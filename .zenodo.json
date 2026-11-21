@@ -1,0 +1,9 @@
+{
+  "title": "Estratégia passiva global e regra de distribuição dinâmica como complemento à aposentadoria: código e dados públicos da simulação (TCC)",
+  "upload_type": "software",
+  "description": "<p>Código e dados públicos da simulação do Trabalho de Conclusão de Curso de André Felipe Mucha (Administração, Universidade Federal da Fronteira Sul – UFFS, 2026). O script simulacao_tcc.py, transcrito no Apêndice A do trabalho, produz os resultados numéricos do Capítulo 4 (acumulação, Monte Carlo, janelas históricas, regras de retirada, probabilidades de ruína e testes de robustez). O script reproduzir.py confere os dados, executa a simulação e compara os resultados com os publicados.</p><p>A série mensal do índice MSCI World Net Return não está incluída por ser material proprietário da MSCI Inc., cujos termos de uso vedam sua redistribuição; o README explica como obtê-la e conferi-la.</p>",
+  "creators": [{"name": "Mucha, André Felipe", "affiliation": "Universidade Federal da Fronteira Sul (UFFS)"}],
+  "license": "MIT",
+  "language": "por",
+  "keywords": ["aposentadoria", "previdência", "Monte Carlo", "taxa de retirada", "MSCI World", "ETF", "Brasil"]
+}

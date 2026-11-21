@@ -1,0 +1,5 @@
+saidas/
+__pycache__/
+dados/msci_world_net_mensal.csv
+dados/ibovespa_mensal.csv
+.DS_Store
