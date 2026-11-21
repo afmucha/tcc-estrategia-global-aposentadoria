@@ -1,5 +1,7 @@
 # Estratégia passiva global e regra de distribuição dinâmica como complemento à aposentadoria
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429882.svg)](https://doi.org/10.5281/zenodo.24429882)
+
 Código e dados públicos da simulação do Trabalho de Conclusão de Curso de **André Felipe Mucha**
 (Administração, Universidade Federal da Fronteira Sul – UFFS, 2026).
 
@@ -70,3 +72,6 @@ pública de estatísticas históricas da B3.
 
 O código está sob a licença MIT (arquivo `LICENSE`). Os dados pertencem às respectivas fontes e seguem os termos de uso
 de cada uma. Para citar, veja `CITATION.cff`.
+
+Versão 1.0 (versão do TCC), arquivada no Zenodo: DOI [10.5281/zenodo.24429882](https://doi.org/10.5281/zenodo.24429882).
+Todas as versões: DOI [10.5281/zenodo.24429881](https://doi.org/10.5281/zenodo.24429881).

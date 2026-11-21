@@ -6,6 +6,8 @@ authors:
     given-names: "André Felipe"
     affiliation: "Universidade Federal da Fronteira Sul (UFFS)"
 version: "1.0"
+doi: "10.5281/zenodo.24429882"
+repository-code: "https://github.com/afmucha/tcc-estrategia-global-aposentadoria"
 date-released: "2026-11-21"
 license: MIT
 type: software
